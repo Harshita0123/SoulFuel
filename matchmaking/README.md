@@ -6,3 +6,4 @@ Spring Boot based matchmaking project where users register and admins suggest ma
 - User registration & login
 - Admin dashboard to suggest matches
 - SQLite  support
+
